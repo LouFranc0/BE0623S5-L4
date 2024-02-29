@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("S5L4-Scarpe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b41bd2194ff30ccaf238dd733b89767c8b99252")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cddc5252809e5d62886e0c849ec9140e7678a39")]
 [assembly: System.Reflection.AssemblyProductAttribute("S5L4-Scarpe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("S5L4-Scarpe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
